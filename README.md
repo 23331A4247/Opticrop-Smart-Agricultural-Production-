@@ -89,7 +89,7 @@ Smart-Agricultural-Production-/
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/23331A4247/Smart-Agricultural-Production-.git
+git clone https://github.com/23331A4247/Opticrop-Smart-Agricultural-Production-.git
 ```
 
 ### 2. Open the project folder
